@@ -2,6 +2,14 @@
 
 This is an advanced command-line tool designed to analyze PDF resumes. It evaluates key skill mentions, extracts keywords, performs sentiment analysis, and offers suggestions for improvement, helping candidates optimize their resumes for better job prospects.
 
+
+
+
+https://github.com/user-attachments/assets/d2f1ac9b-1b31-40ab-a3d0-36eeeda63265
+
+
+
+
 ## Features
 
 - **Text Extraction**: Extracts text content from PDF resumes.
@@ -11,7 +19,9 @@ This is an advanced command-line tool designed to analyze PDF resumes. It evalua
 - **Resume Scoring**: Provides a comprehensive score based on skills and sentiment.
 - **Formatting Suggestions**: Checks for common formatting issues.
 
-## Demo video
+
+
+
 
 
 
