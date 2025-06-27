@@ -5,7 +5,11 @@ This is an advanced command-line tool designed to analyze PDF resumes. It evalua
 
 
 ## Demo video
-https://github.com/user-attachments/assets/d2f1ac9b-1b31-40ab-a3d0-36eeeda63265
+
+
+
+https://github.com/user-attachments/assets/634128b8-fa90-4226-94a7-849e40b56b7f
+
 
 
 ## screenshot
